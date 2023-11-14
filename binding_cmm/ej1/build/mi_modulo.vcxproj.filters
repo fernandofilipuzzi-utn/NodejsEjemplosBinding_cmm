@@ -4,31 +4,31 @@
     <Filter Include="..">
       <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:">
-      <UniqueIdentifier>{CE1D60B6-136E-4590-C8A4-F7DB2F84E3F6}</UniqueIdentifier>
+    <Filter Include="C:">
+      <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos">
-      <UniqueIdentifier>{C1ED997B-7FA2-95B4-22AE-BDD10C9FF205}</UniqueIdentifier>
+    <Filter Include="C:\Users">
+      <UniqueIdentifier>{E9F714C1-DA89-54E2-60CF-39FEB20BF756}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js">
-      <UniqueIdentifier>{3C727C56-6500-D0B2-EDE4-58D108017974}</UniqueIdentifier>
+    <Filter Include="C:\Users\fernando">
+      <UniqueIdentifier>{D1FF8E34-711B-D98B-1CE9-4625F10F1C2D}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js\binding_cmm">
-      <UniqueIdentifier>{BD6D5C00-1119-2391-5436-2EAC4B37806D}</UniqueIdentifier>
+    <Filter Include="C:\Users\fernando\AppData">
+      <UniqueIdentifier>{F852EB63-437C-846A-220F-8D9ED6DAEC1D}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm">
-      <UniqueIdentifier>{BD6D5C00-1119-2391-5436-2EAC4B37806D}</UniqueIdentifier>
+    <Filter Include="C:\Users\fernando\AppData\Roaming">
+      <UniqueIdentifier>{D51E5808-912B-5C70-4BB7-475D1DBFA067}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1">
-      <UniqueIdentifier>{863A4EFB-7CA0-9759-65F6-ADA7FE09C161}</UniqueIdentifier>
+    <Filter Include="C:\Users\fernando\AppData\Roaming\npm">
+      <UniqueIdentifier>{741E0E76-39B2-B1AB-9FA1-F1A20B16F295}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1\node_modules">
+    <Filter Include="C:\Users\fernando\AppData\Roaming\npm\node_modules">
       <UniqueIdentifier>{56DF7A98-063D-FB9D-485C-089023B4C16A}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1\node_modules\node-gyp">
+    <Filter Include="C:\Users\fernando\AppData\Roaming\npm\node_modules\node-gyp">
       <UniqueIdentifier>{77348C0E-2034-7791-74D5-63C077DF5A3B}</UniqueIdentifier>
     </Filter>
-    <Filter Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1\node_modules\node-gyp\src">
+    <Filter Include="C:\Users\fernando\AppData\Roaming\npm\node_modules\node-gyp\src">
       <UniqueIdentifier>{8CDEE807-BC53-E450-C8B8-4DEBB66742D4}</UniqueIdentifier>
     </Filter>
     <Filter Include="..">
@@ -39,8 +39,8 @@
     <ClCompile Include="..\mi_modulo.cc">
       <Filter>..</Filter>
     </ClCompile>
-    <ClCompile Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1\node_modules\node-gyp\src\win_delay_load_hook.cc">
-      <Filter>F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1\node_modules\node-gyp\src</Filter>
+    <ClCompile Include="C:\Users\fernando\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc">
+      <Filter>C:\Users\fernando\AppData\Roaming\npm\node_modules\node-gyp\src</Filter>
     </ClCompile>
     <None Include="..\binding.gyp">
       <Filter>..</Filter>

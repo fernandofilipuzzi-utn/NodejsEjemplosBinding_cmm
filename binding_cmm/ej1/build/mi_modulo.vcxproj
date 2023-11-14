@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E997515C-3FAE-7FF4-4C0E-0BD2F06F94CD}</ProjectGuid>
+    <ProjectGuid>{6663E232-1381-1D55-6B6A-2E15CA985AD4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>mi_modulo</RootNamespace>
     <IgnoreWarnCompileDuplicatedFilename>true</IgnoreWarnCompileDuplicatedFilename>
@@ -48,7 +48,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;..\node_modulesnan;..\{};%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/Zc:__cplusplus -std:c++17 %(AdditionalOptions)</AdditionalOptions>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <BufferSecurityCheck>true</BufferSecurityCheck>
@@ -84,13 +84,13 @@
       <TargetMachine>MachineX64</TargetMachine>
     </Link>
     <ResourceCompile>
-      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;..\node_modulesnan;..\{};%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>NODE_GYP_MODULE_NAME=mi_modulo;USING_UV_SHARED=1;USING_V8_SHARED=1;V8_DEPRECATION_WARNINGS=1;V8_DEPRECATION_WARNINGS;V8_IMMINENT_DEPRECATION_WARNINGS;_GLIBCXX_USE_CXX11_ABI=1;WIN32;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_HAS_EXCEPTIONS=0;OPENSSL_NO_PINSHARED;OPENSSL_THREADS;BUILDING_NODE_EXTENSION;HOST_BINARY=&quot;node.exe&quot;;DEBUG;_DEBUG;V8_ENABLE_CHECKS;%(PreprocessorDefinitions);%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;..\node_modulesnan;..\{};%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AdditionalOptions>/Zc:__cplusplus -std:c++17 %(AdditionalOptions)</AdditionalOptions>
       <BufferSecurityCheck>true</BufferSecurityCheck>
       <DebugInformationFormat>OldStyle</DebugInformationFormat>
@@ -129,7 +129,7 @@
       <TargetMachine>MachineX64</TargetMachine>
     </Link>
     <ResourceCompile>
-      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\include\node;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\src;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\config;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\openssl\openssl\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\uv\include;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\zlib;C:\Users\fernando\AppData\Local\node-gyp\Cache\18.18.0\deps\v8\include;..\node_modulesnan;..\{};%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <PreprocessorDefinitions>NODE_GYP_MODULE_NAME=mi_modulo;USING_UV_SHARED=1;USING_V8_SHARED=1;V8_DEPRECATION_WARNINGS=1;V8_DEPRECATION_WARNINGS;V8_IMMINENT_DEPRECATION_WARNINGS;_GLIBCXX_USE_CXX11_ABI=1;WIN32;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_HAS_EXCEPTIONS=0;OPENSSL_NO_PINSHARED;OPENSSL_THREADS;BUILDING_NODE_EXTENSION;HOST_BINARY=&quot;node.exe&quot;;%(PreprocessorDefinitions);%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ResourceCompile>
   </ItemDefinitionGroup>
@@ -140,7 +140,7 @@
     <ClCompile Include="..\mi_modulo.cc">
       <ObjectFileName>$(IntDir)\mi_modulo.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="F:\repos\repos_utn_js\binding_cmm\binding_cmm\ej1\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
+    <ClCompile Include="C:\Users\fernando\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
   <Import Project="$(VCTargetsPath)\BuildCustomizations\masm.targets"/>

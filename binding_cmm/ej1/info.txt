@@ -1,0 +1,10 @@
+
+# para compilar
+
+npm install nan
+npm uninstall -g windows-build-tools
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+node-gyp configure
+npx node-gyp build
+node-gyp rebuild

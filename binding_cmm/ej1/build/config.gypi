@@ -404,17 +404,6 @@
     "nodedir": "C:\\Users\\fernando\\AppData\\Local\\node-gyp\\Cache\\18.18.0",
     "python": "C:\\Users\\fernando\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
     "standalone_static_library": 1,
-    "msbuild_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe",
-    "cache": "C:\\Users\\fernando\\AppData\\Local\\npm-cache",
-    "globalconfig": "C:\\Users\\fernando\\AppData\\Roaming\\npm\\etc\\npmrc",
-    "global_prefix": "C:\\Users\\fernando\\AppData\\Roaming\\npm",
-    "init_module": "C:\\Users\\fernando\\.npm-init.js",
-    "local_prefix": "F:\\repos\\repos_utn_js\\binding_cmm\\binding_cmm\\ej1",
-    "metrics_registry": "https://registry.npmjs.org/",
-    "node_gyp": "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js",
-    "npm_version": "9.8.1",
-    "prefix": "C:\\Users\\fernando\\AppData\\Roaming\\npm",
-    "userconfig": "C:\\Users\\fernando\\.npmrc",
-    "user_agent": "npm/9.8.1 node/v18.18.0 win32 x64 workspaces/false"
+    "msbuild_path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe"
   }
 }
